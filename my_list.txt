@@ -1,6 +1,16 @@
-"pre-workout"
-"BCAA's"
-"gym clothes"
-"gym membership"
-"Glutamine"
-"Creatine"
+<h1>
+  The Metamorphosis Has Begun
+</h1>
+
+<p>
+  Lady Gym Butterfly Essentials!
+</p>
+
+<ul>
+  <li>"pre-workout"</li>
+<li>"BCAA's"</li>
+<li>"gym clothes"</li>
+<li>"gym membership"</li>
+<li>"Glutamine"</li>
+<li>"Creatine"</li>
+</ul>
